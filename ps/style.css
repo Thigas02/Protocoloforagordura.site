@@ -17,7 +17,7 @@ body {
 	align-items: center;
 	width: 100vw;
 	height: 100vh;
-	background: url("bg.jpeg") no-repeat fixed center;
+	background: url("WhatsApp.jpeg") no-repeat fixed center;
 	background-size: cover;
 }
 
@@ -26,8 +26,8 @@ body {
 	max-width: 90%;
 }
 
-.black {
-	background-color: black;
+.White {
+	background-color: White;
 	padding: 10px;
 	text-align: center;
 	border-radius: 20px;
@@ -44,17 +44,17 @@ body {
 	border-radius: 10px;
 	padding: 5px 10px;
 	font-size: 30px;
-	background-color: #f7ce6a;
+	background-color: #32CD32;
 	outline: none;
-	color: black;
+	color: White;
 	text-decoration: none;
 }
 
-.black h1 {
-	color: yellow;
+.Green h1 {
+	color: Green;
 }
 
-.black p {
+.Green p {
 	font-size: 18px;
-	color: white;
+	color: Green;
 }
